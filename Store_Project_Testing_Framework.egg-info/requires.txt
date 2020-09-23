@@ -1,0 +1,6 @@
+pytest
+selenium
+requests
+pyyaml
+webdriver_manager
+pytest-xdist

@@ -1,0 +1,16 @@
+setup.py
+Store_Project_Testing_Framework.egg-info/PKG-INFO
+Store_Project_Testing_Framework.egg-info/SOURCES.txt
+Store_Project_Testing_Framework.egg-info/dependency_links.txt
+Store_Project_Testing_Framework.egg-info/requires.txt
+Store_Project_Testing_Framework.egg-info/top_level.txt
+browsers/__init__.py
+browsers/abstract_browser.py
+browsers/browsers.py
+browsers/chrome.py
+browsers/firefox.py
+page_objects/__init__.py
+page_objects/main_page.py
+tests/__init__.py
+tests/conftest.py
+tests/test.py
